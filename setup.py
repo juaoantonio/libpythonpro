@@ -101,8 +101,8 @@ def find_package_data(
     return out
 
 
-PACKAGE = "libpythonpro"
-NAME = "libpythonpro_juao"
+PACKAGE = "teste_libpythonpro_pypi"
+NAME = "teste_libpythonpro_pypi"
 DESCRIPTION = "Módulo para exemplificar construção de projetos Python no curso PyTools"
 AUTHOR = "João Antônio"
 AUTHOR_EMAIL = "joaobarbosadev@gmail.com"
@@ -114,7 +114,7 @@ setup(
     version=VERSION,
     description=DESCRIPTION,
     long_description=read('README.md'),
-    long_description_content_type='text/markdown',
+    long_description_content_type='text/x-rst',
     author=AUTHOR,
     author_email=AUTHOR_EMAIL,
     license=read('LICENSE'),
@@ -128,7 +128,7 @@ setup(
         "License :: OSI Approved :: GNU Affero General Public License v3 or later (AGPLv3+)",
         "Operating System :: OS Independent",
         "Programming Language :: Python",
-        "Programming Language :: Python :: 3.6",
+        "Programming Language :: Python :: 3.10",
         "Framework :: Pytest",
     ],
     install_requires=[
