@@ -10,4 +10,8 @@ attrs==19.2.0
 pytest==6.2.5
 toml==0.10.2
 
+# Converage
+coverage==6.2
+pytest-cov==3.0.0
+
 -r requirements.txt

@@ -7,6 +7,7 @@ Suportada versão 3 de Python
 Escrito em Python 3.10
 [![Updates](https://pyup.io/repos/github/juaoantonio/libpythonpro/shield.svg)](https://pyup.io/repos/github/juaoantonio/libpythonpro/)
 [![Python 3](https://pyup.io/repos/github/juaoantonio/libpythonpro/python-3-shield.svg)](https://pyup.io/repos/github/juaoantonio/libpythonpro/)
+[![codecov](https://codecov.io/gh/juaoantonio/teste_libpythonpro_pypi/branch/main/graph/badge.svg?token=94OA7IMS6M)](https://codecov.io/gh/juaoantonio/teste_libpythonpro_pypi)
 
 Para instalar:
 ```console
